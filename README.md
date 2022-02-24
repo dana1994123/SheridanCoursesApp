@@ -1,1 +1,1 @@
-# SheridanCoursesApp
+# Sheridan Courses App
