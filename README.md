@@ -8,6 +8,10 @@
 <h2>About</h2>
 
 <h2>Features</h2>
+1- Get access easily to the courses 
+2- Communicating with ptofessors
+3- Upcoming evant clearly states in the app
+
 
 
 <h2>Initial Prototype</h2>
@@ -21,6 +25,7 @@
 
 
 <h2>Demo Video </h2>
+
 
 <h2>Links</h2>
 <a href="https://www.figma.com/file/yZ8A3qCsRz968mbaCHx9vN/Untitled?node-id=0%3A1">Github Repository</a> <br>
