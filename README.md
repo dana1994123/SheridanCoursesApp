@@ -17,13 +17,14 @@ Sheridan courses app is the app that each stuent at Sheridan college needed for 
 
 
 <h2>Initial Prototype</h2>
+<img width="1213" alt="Screen Shot 2022-02-27 at 8 22 03 PM" src="https://user-images.githubusercontent.com/68449449/155909584-c9f71adb-5c7c-4edb-99fe-872dc2fa137d.png">
 
-![Screen Shot 2022-02-24 at 11 51 24 AM](https://user-images.githubusercontent.com/68449449/155569985-fa8a7c16-2657-4842-a0e6-7ee47a2ac2e1.png)
+
 <br>
 <h2>Navigation Prototype</h2>
 
-![Screen Shot 2022-02-24 at 11 51 42 AM](https://user-images.githubusercontent.com/68449449/155569978-74178aee-40ff-4132-b9dd-b7a36537beb2.png)
 
+<img width="1213" alt="Screen Shot 2022-02-27 at 8 21 55 PM" src="https://user-images.githubusercontent.com/68449449/155909592-843c3fb5-77f4-4e36-b39a-555346e4adb1.png">
 
 
 <h2>Demo Video </h2>
