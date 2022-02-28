@@ -11,7 +11,7 @@ Sheridan courses app is the app that each stuent at Sheridan college needed for 
 <h2>Features</h2>
 1- Get access easily to the courses <br>
 2- Communicating with ptofessors  <br>
-3- Upcoming evant clearly states in the app  <br>
+3- Upcoming event clearly states in the app  <br>
 4- connect the app calender to the phone calender and receive notification when something id due soon.  <br>
 
 
