@@ -33,4 +33,4 @@ Sheridan courses app is the app that each stuent at Sheridan college needed for 
 <h2>Links</h2>
 <a href="https://www.figma.com/file/yZ8A3qCsRz968mbaCHx9vN/Untitled?node-id=0%3A1">Github Repository</a> <br>
 <a href="https://www.figma.com/file/N7Ax5OZHyuanLsAleBo4Pn/Sheridan-Course-App-V2?node-id=0%3A1">Figma Link</a> <br>
-<a href="https://www.figma.com/file/yZ8A3qCsRz968mbaCHx9vN/Untitled?node-id=0%3A1">Video Demo</a> <br>
+<a href="https://youtu.be/SbnTSyzNlJo">Video Demo</a> <br>
