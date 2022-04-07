@@ -3,7 +3,7 @@
 <h3>Application Versions </h3>
 
 <a href="https://www.figma.com/file/yZ8A3qCsRz968mbaCHx9vN/Untitled?node-id=0%3A1">1. Version 1</a> <br>
-<a href="https://www.figma.com/file/N7Ax5OZHyuanLsAleBo4Pn/Sheridan-Course-App-V2?node-id=0%3A1">2. Version 2</a> <br>
+<a href="https://www.figma.com/file/JgOTyDeUcHta4pyYHUodSN/Sheridan-Course-App-V2-(Copy)?node-id=0%3A1">2. Version 2</a> <br>
 <a href="https://www.figma.com/file/N7Ax5OZHyuanLsAleBo4Pn/Sheridan-Course-App-V3?node-id=0%3A1">3. Version 3</a>
 
 <h2>About</h2>
