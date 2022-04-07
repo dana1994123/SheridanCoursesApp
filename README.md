@@ -4,6 +4,7 @@
 
 <a href="https://www.figma.com/file/yZ8A3qCsRz968mbaCHx9vN/Untitled?node-id=0%3A1">1. Version 1</a> <br>
 <a href="https://www.figma.com/file/N7Ax5OZHyuanLsAleBo4Pn/Sheridan-Course-App-V2?node-id=0%3A1">2. Version 2</a> 
+<a href="https://www.figma.com/file/N7Ax5OZHyuanLsAleBo4Pn/Sheridan-Course-App-V3?node-id=0%3A1">2. Version 2</a>
 
 <h2>About</h2>
 Sheridan courses app is the app that each stuent at Sheridan college needed for managing their student life. This app give the students access to their course, academic calender & many other features. 
